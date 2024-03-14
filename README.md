@@ -1,9 +1,10 @@
 # Lecture Summaries
 
-Welcome! This repository contains written summaries of lectures offered at the [University of Mannheim](https://www.uni-mannheim.de/en/). 
+👋🏼 Welcome! This repository contains written summaries of lectures offered at the [University of Mannheim](https://www.uni-mannheim.de/en/). 
 
 Whether you're a student studying these topics or simply curious about them, I hope you find these summaries helpful!
 
+❗ **Disclaimer**: These summaries are not official lecture notes but are written by me as personal summaries.
 
 - [IE500 Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/course-archive/fss-2022/ie-500-data-mining/) lecture during the spring semester 2022 by [Prof. Dr. Christian Bizer](https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer/).
 - [CS500 Advanced Software Engineering](https://www.wim.uni-mannheim.de/atkinson/teaching/#c144162) lecture during the fall semester 2022 by [Prof. Dr. Colin Atkinson](https://www.wim.uni-mannheim.de/atkinson/).
