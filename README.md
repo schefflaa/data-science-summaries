@@ -2,7 +2,7 @@
 
 👋🏼 Welcome! This repository contains written summaries of lectures offered at the [University of Mannheim](https://www.uni-mannheim.de/en/).
 
-Whether you're a student studying these topics or simply curious, I hope you find these summaries helpful!
+Whether you're a student studying these topics or are simply curious, I hope you find these summaries helpful!
 
 ❗ **Disclaimer**: These summaries are not official lecture notes but are written by me as personal summaries.
 
