@@ -1,8 +1,7 @@
 # Lecture Summaries
 
 👋🏼 Welcome! This repository contains written summaries of lectures offered at the [University of Mannheim](https://www.uni-mannheim.de/en/). 
-
-Whether you're a student studying these topics or simply curious about them, I hope you find these summaries helpful!
+Whether you're a student studying these topics or simply curious, I hope you find these summaries helpful!
 
 ❗ **Disclaimer**: These summaries are not official lecture notes but are written by me as personal summaries.
 
@@ -16,4 +15,4 @@ Whether you're a student studying these topics or simply curious about them, I h
 - [IE678 Deep Leaning](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-678-deep-learning/) [🚧] lecture during the spring semester 2024 by [Prof. Dr. Rainer Gemulla](https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla/).
 
 
-Found a mistake or want to suggest an improvement? Please feel free to open an issue or create a pull request. Your contributions are greatly appreciated!
+Found a mistake or want to suggest an improvement? Please feel free to open an issue or create a pull request.
