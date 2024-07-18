@@ -1,4 +1,4 @@
-# Lecture Summaries
+# 📑 Lecture Summaries
 
 👋🏼 Welcome! This repository contains written summaries of lectures offered at the [University of Mannheim](https://www.uni-mannheim.de/en/).
 
